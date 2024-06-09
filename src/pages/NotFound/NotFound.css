@@ -1,0 +1,14 @@
+.notFound {
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: 100;
+    background-color: rgb(0, 0, 0);
+    color: wheat;
+}
+
+.notFound > h4 {
+    font-weight: 100;
+}

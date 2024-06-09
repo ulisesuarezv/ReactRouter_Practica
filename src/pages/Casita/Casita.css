@@ -1,0 +1,12 @@
+.casita {
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    background-color: rgb(90, 93, 68);
+}
+
+.casita > h4 {
+    font-weight: 100;
+}

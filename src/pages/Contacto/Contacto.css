@@ -1,0 +1,13 @@
+.contact {
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: 100;
+    background-color: rgb(128, 91, 135);
+}
+
+.contact > h4 {
+    font-weight: 100;
+}
